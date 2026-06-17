@@ -1,0 +1,6 @@
+{
+  "name": "Xentriq Studio",
+  "description": "A premium, futuristic website for Xentriq Studio, a modern software development and AI solutions company.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
